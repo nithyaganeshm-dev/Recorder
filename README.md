@@ -4,7 +4,7 @@ A versatile web application that enables users to record audio, capture screensh
 
 ## Features
 
-- **Audio Recording**: Record audio directly in the browser.
+- **Video & Audio Recording**: Record video and audio directly in the browser.
 - **Screenshot Capture**: Take screenshots of the current browser window.
-- **Apply Filters**: Add different colors while recording videos and capturing screen shots.
+- **Apply Filters**: Add different colors while recording videos and capturing screenshots.
 - **Download Options**: Save recorded videos and screenshots locally.
